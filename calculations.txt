@@ -1,0 +1,111 @@
+Website Calculations
+Total Population: 64348802
+Average Population: 643488.02
+
+
+Weather Calculations
+Minimum Temperature: 21.58°F, Anchorage
+Maximum Temperature: 81.41°F, Honolulu
+
+
+Yelp Calculations
+Average rating for ice cream shops in New York City: 4.3
+Average rating for ice cream shops in Los Angeles: 4.4
+Average rating for ice cream shops in Chicago: 4.2
+Average rating for ice cream shops in Houston: 4.5
+Average rating for ice cream shops in Phoenix: 4.5
+Average rating for ice cream shops in Philadelphia: 4.4
+Average rating for ice cream shops in San Antonio: 4.5
+Average rating for ice cream shops in San Diego: 4.5
+Average rating for ice cream shops in Dallas: 4.3
+Average rating for ice cream shops in Jacksonville: 4.4
+Average rating for ice cream shops in Fort Worth: 3.9
+Average rating for ice cream shops in Austin: 4.3
+Average rating for ice cream shops in San Jose: 4.3
+Average rating for ice cream shops in Charlotte: 4.5
+Average rating for ice cream shops in Columbus: 4.4
+Average rating for ice cream shops in Indianapolis: 4.5
+Average rating for ice cream shops in San Francisco: 4.4
+Average rating for ice cream shops in Seattle: 4.3
+Average rating for ice cream shops in Denver: 4.3
+Average rating for ice cream shops in Oklahoma City: 4.2
+Average rating for ice cream shops in Nashville: 4.2
+Average rating for ice cream shops in Washington: 4.2
+Average rating for ice cream shops in El Paso: 4.0
+Average rating for ice cream shops in Las Vegas: 4.2
+Average rating for ice cream shops in Boston: 4.2
+Average rating for ice cream shops in Detroit: 4.1
+Average rating for ice cream shops in Portland: 4.5
+Average rating for ice cream shops in Louisville: 4.4
+Average rating for ice cream shops in Memphis: 4.3
+Average rating for ice cream shops in Baltimore: 4.2
+Average rating for ice cream shops in Albuquerque: 4.4
+Average rating for ice cream shops in Milwaukee: 4.2
+Average rating for ice cream shops in Tucson: 4.3
+Average rating for ice cream shops in Fresno: 4.5
+Average rating for ice cream shops in Sacramento: 4.3
+Average rating for ice cream shops in Atlanta: 4.4
+Average rating for ice cream shops in Mesa: 4.3
+Average rating for ice cream shops in Kansas City: 4.5
+Average rating for ice cream shops in Colorado Springs: 4.2
+Average rating for ice cream shops in Raleigh: 4.5
+Average rating for ice cream shops in Omaha: 4.2
+Average rating for ice cream shops in Miami: 4.5
+Average rating for ice cream shops in Virginia Beach: 4.4
+Average rating for ice cream shops in Long Beach: 4.5
+Average rating for ice cream shops in Oakland: 4.3
+Average rating for ice cream shops in Minneapolis: 4.2
+Average rating for ice cream shops in Bakersfield: 4.0
+Average rating for ice cream shops in Tulsa: 4.2
+Average rating for ice cream shops in Tampa: 4.5
+Average rating for ice cream shops in Arlington: 4.2
+Average rating for ice cream shops in Aurora: 4.4
+Average rating for ice cream shops in Wichita: 4.1
+Average rating for ice cream shops in Cleveland: 4.5
+Average rating for ice cream shops in New Orleans: 4.3
+Average rating for ice cream shops in Henderson: 4.4
+Average rating for ice cream shops in Honolulu: 4.4
+Average rating for ice cream shops in Anaheim: 4.4
+Average rating for ice cream shops in Orlando: 4.5
+Average rating for ice cream shops in Riverside: 4.3
+Average rating for ice cream shops in Lexington: 4.0
+Average rating for ice cream shops in Stockton: 4.1
+Average rating for ice cream shops in Irvine: 4.3
+Average rating for ice cream shops in Corpus Christi: 4.1
+Average rating for ice cream shops in Cincinnati: 4.4
+Average rating for ice cream shops in Santa Ana: 4.3
+Average rating for ice cream shops in Greensboro: 4.3
+Average rating for ice cream shops in Pittsburgh: 4.2
+Average rating for ice cream shops in Newark: 4.4
+Average rating for ice cream shops in St. Paul: 4.1
+Average rating for ice cream shops in Durham: 4.4
+Average rating for ice cream shops in Lincoln: 4.5
+Average rating for ice cream shops in North Las Vegas: 4.5
+Average rating for ice cream shops in Jersey City: 4.2
+Average rating for ice cream shops in Plano: 4.3
+Average rating for ice cream shops in Anchorage: 4.2
+Average rating for ice cream shops in Madison: 4.3
+Average rating for ice cream shops in Chandler: 4.2
+Average rating for ice cream shops in Reno: 4.1
+Average rating for ice cream shops in Gilbert: 4.1
+Average rating for ice cream shops in St. Louis: 4.4
+Average rating for ice cream shops in Chula Vista: 4.3
+Average rating for ice cream shops in Buffalo: 4.4
+Average rating for ice cream shops in Fort Wayne: 4.1
+Average rating for ice cream shops in Lubbock: 3.8
+Average rating for ice cream shops in St. Petersburg: 4.5
+Average rating for ice cream shops in Toledo: 4.4
+Average rating for ice cream shops in Laredo: 3.4
+Average rating for ice cream shops in Port St. Lucie: 4.4
+Average rating for ice cream shops in Glendale: 4.2
+Average rating for ice cream shops in Chesapeake: 4.4
+Average rating for ice cream shops in Winston-Salem: 4.0
+Average rating for ice cream shops in Irving: 4.2
+Average rating for ice cream shops in Scottsdale: 4.4
+Average rating for ice cream shops in Enterprise: 3.8
+Average rating for ice cream shops in Garland: 4.3
+Average rating for ice cream shops in Boise City: 4.2
+Average rating for ice cream shops in Cape Coral: 4.5
+Average rating for ice cream shops in Frisco: 4.2
+Average rating for ice cream shops in Richmond: 4.3
+Average rating for ice cream shops in Spokane: 4.3
